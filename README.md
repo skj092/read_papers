@@ -3,7 +3,7 @@
 
 ## Fundamental Concepts and Techniques
 1. BatchNorm: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
-2. Dropout: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/v15/srivastava14a.html) (Not on arXiv)
+2. Dropout: [Improving neural networks by preventing co-adaptation of feature detectors](https://arxiv.org/pdf/1207.0580)
 3. Adam Optimizer: [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
 
 ## Computer Vision
