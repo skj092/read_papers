@@ -1,5 +1,12 @@
 # read_papers
-# Comprehensive List of Deep Learning Papers and Concepts with arXiv Links
+
+# Reading
+1. GPT-2: [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+
+# Read
+1. Transformer: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
+# To-Read
 
 ## Fundamental Concepts and Techniques
 1. BatchNorm: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
@@ -41,16 +48,6 @@
 23. Diffusion Models: [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
 24. GAN: [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 
-## Reinforcement Learning
-25. DQN: [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236) (Not on arXiv)
-26. PPO: [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
-
 ## Multi-modal Learning
 27. CLIP: [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 28. ViT: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
-
-## Graph Neural Networks
-29. GCN: [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
-
-## Meta-Learning
-30. MAML: [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
